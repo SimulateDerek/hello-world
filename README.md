@@ -1,3 +1,3 @@
 # hello-world
 The first of many excellent repositories. 
-Ready to becomea software engineer!
+Ready to become a software engineer!
